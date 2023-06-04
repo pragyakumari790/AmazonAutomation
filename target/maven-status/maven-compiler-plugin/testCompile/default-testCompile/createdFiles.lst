@@ -1,0 +1,5 @@
+com\store\TestCases\TC_indexPage_001.class
+com\store\Utilities\ReadConfig.class
+com\store\Utilities\ExtentListenerClass.class
+com\store\PageObject\indexPage.class
+com\store\TestCases\BaseClass.class
